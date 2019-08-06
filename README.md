@@ -80,3 +80,8 @@ __Boot:__
 [Lilu](https://github.com/acidanthera/Lilu/releases)   
 [USBInjectAll](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/)   
 [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)   
+
+# Config.plist
+
+Find the file attached above.  
+NOTE: I removed the serial number from the SMBIOS section. Generate your own in Clover Configurator.
