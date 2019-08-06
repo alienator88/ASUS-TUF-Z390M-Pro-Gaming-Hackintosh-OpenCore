@@ -46,6 +46,7 @@ __Advanced:__
     * SATA Controller(s): Disabled (if you have SDD NVMe)
   * Onboard Devices Configuration
     * HD Audio: Enabled
+    * USB power delivery in Soft Off state (S5): Disabled
     * Serial Port Configuration
       * Serial Port: Off
   * USB Configuration
@@ -61,3 +62,21 @@ __Boot:__
     * Launch CSM: Disabled
   * Secure Boot
     * OS Type: Other OS
+    
+
+# Drivers
+[ApfsDriverLoader-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
+[AptioInputFix-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
+[EmuVariableUefi-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
+[FSInject-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
+[OsxAptioFixDrv-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI) (AptioMemoryFix-64 does not work well during install for this board)  
+[HFSPlus-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
+[SMCHelper-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
+
+# Kexts
+[AppleALC](https://github.com/acidanthera/AppleALC/releases)   
+[FakeSMC](https://github.com/RehabMan/OS-X-FakeSMC-kozlek/releases) (VirtualSMC does not work well with this board yet)   
+[IntelMausiEthernet](https://github.com/acidanthera/IntelMausi/releases)   
+[Lilu](https://github.com/acidanthera/Lilu/releases)   
+[USBInjectAll](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/)   
+[WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)   
