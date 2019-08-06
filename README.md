@@ -83,5 +83,6 @@ __Boot:__
 
 # Config.plist
 
-Find the file attached above.  
-NOTE: I removed the serial number from the SMBIOS section. Generate your own in Clover Configurator.
+Will attach file in a few hours when I get home.  
+>NOTE: I removed the Serial Number from the SMBIOS section. Generate your own in Clover Configurator.  
+
