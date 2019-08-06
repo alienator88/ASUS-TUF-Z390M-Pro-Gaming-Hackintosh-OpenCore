@@ -3,7 +3,7 @@
 >I needed to add all this information together for this board as it took me a couple days of scavenging for drivers, kexts, patches and bios settings.  
 
 
-# Fixes
+### Fixes
 
 1. ACPI patch to fix "AMFILoadTrustedKeysFromNVRam: no nvram variable" during installer boot.
 2. Driver to fix Phase 1 of installer stuck at 2 minutes remaining.
@@ -11,11 +11,11 @@
 
 # BIOS Settings
 
-AI Tweaker:
+__AI Tweaker:__
   * Ai Overclock Tuner: XMP I (just for speed)
   * ASUS MultiCore Enhancement: Auto
 
-Advanced:
+__Advanced:__
   * Platform Misc Configuration (lower temperature of Radeon):
     * PCI Express Native Power Management: Enabled
     * Native ASPM: Enabled
@@ -54,7 +54,7 @@ Advanced:
   * Network Stack Configuration
     * Network Stack: Disabled
 
-Boot:
+__Boot:__
   * Boot Configuration
     * Fast Boot: Disabled
   * CSM (Compatibility Support Module)
