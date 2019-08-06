@@ -33,8 +33,13 @@ Advanced:
   * System Agent (SA) Configuration
     * VT-d: Disabled
     * Above 4G Decoding: Disabled
-    * Graphics Configuration (Radeon RX590 GPU only without Intel HD 630 iGPU hardware acceleration):
+    * Graphics Configuration (Video Card only without Intel HD 630 iGPU hardware acceleration):
      * Primary Display: PEG
+    * Graphics Configuration (Video Card + Intel HD 630 iGPU hardware acceleration):
+     * Primary Display: PCIE
+     * iGPU Multi-Monitor: Enabled
+     * DVMT Pre-Allocated: 32M
+     * RC6(Render Standby): Disabled 
   * PCH Configuration
     * IOAPIC 24-119 Entries: Enabled
   * PCH Storage Configuration
