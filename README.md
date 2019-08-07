@@ -1,6 +1,6 @@
 # ASUS-TUF-Z390M-Pro-Gaming-Hackintosh
 
->EmuVariable is required for this (and most other Z390 boards), as the BIOS for these boards (which are based on a newer version of AMI Aptio) are not *yet* compatible with AptioMemoryFix in regards to nvram writing. So native nvram does not work under macOS currently.
+>EmuVariable is required for this (and most other Z390 boards), as the BIOS for these boards (which are based on a newer version of AMI Aptio) are not __*yet*__ compatible with AptioMemoryFix in regards to nvram writing. So native nvram does not work under macOS currently.
 
 
 ### Fixes
