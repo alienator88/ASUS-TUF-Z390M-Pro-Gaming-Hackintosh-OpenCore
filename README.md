@@ -89,7 +89,7 @@ __Boot:__
 
 >NOTE: I removed my Serial Number/SmUUID/CustomUUID from the SMBIOS & System Parameters section. Generate your own in Clover Configurator. 
 
-# Credits
+#### Credits
 [Tonymacx86](https://www.tonymacx86.com/)   
 [r/hackintosh](https://www.reddit.com/r/hackintosh/)   
 [Hackintosher](https://hackintosher.com/)
