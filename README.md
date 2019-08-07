@@ -88,7 +88,7 @@ __Boot:__
 # Config.plist
 
 Will attach file in a few hours when I get home.  
->NOTE: I removed my Serial Number from the SMBIOS section. Generate your own in Clover Configurator. 
+>NOTE: I removed my Serial Number/SmUUID/CustomUUID from the SMBIOS & System Parameters section. Generate your own in Clover Configurator. 
 
 # Credits
 [Tonymacx86](https://www.tonymacx86.com/)   
