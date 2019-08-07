@@ -67,11 +67,15 @@ __Boot:__
 # Drivers
 [ApfsDriverLoader-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
 [AptioInputFix-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
+[AudioDxe-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
+[DataHubDxe-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
 [EmuVariableUefi-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
 [FSInject-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
 [OsxAptioFixDrv-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI) (AptioMemoryFix-64 does not work well during install for this board)  
 [HFSPlus-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
-[SMCHelper-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
+[PartitionDxe-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
+[SMCHelper-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)
+[UsbKbDxe-64.efi](https://github.com/athlonreg/Clover_Build/tree/master/drivers64UEFI)  
 
 # Kexts
 [AppleALC](https://github.com/acidanthera/AppleALC/releases)   
