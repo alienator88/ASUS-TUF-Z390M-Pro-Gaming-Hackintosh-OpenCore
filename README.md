@@ -9,10 +9,10 @@
 ACPI patch to fix "AMFILoadTrustedKeysFromNVRam: no nvram variable" during installer boot.
 ```
 ```
-Driver to fix Phase 1 of installer stuck at 2 minutes remaining.
+Fix Phase 1 of installer stuck at 2 minutes remaining.
 ```
 ```
-Driver to fix Phase 2 of installer stuck at 13 minutes remaining.
+Fix Phase 2 of installer stuck at 13 minutes remaining.
 ```
 
 # BIOS Settings
