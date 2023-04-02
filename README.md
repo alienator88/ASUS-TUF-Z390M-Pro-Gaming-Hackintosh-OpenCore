@@ -301,7 +301,7 @@ This will take a while to write to the usb. After creating the install media, mo
 
 ## 📜 License
 
-This repo is licensed under the [MIT License](https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/blob/main/LICENSE).
+This repo is licensed under the [MIT License](https://raw.githubusercontent.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/Ventura/LICENSE).
 
 OpenCore is licensed under the [BSD 3-Clause License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt).
 
