@@ -9,7 +9,7 @@
 <p align="center">
    <strong>Status: Maintained</strong>
    <br />
-   <strong>Version: </strong>1.0
+   <strong>MacOS Version: </strong>Ventura 13.3
    <br />
    <a href="https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/releases"><strong>Download now »</strong></a>
    <br />
@@ -26,7 +26,8 @@
 &nbsp;
 
 ## Introduction
-NOTE: There's another branch in this repo that was done for Mojave with Clover. I've since updated this repo with my current OpenCore/Ventura config
+**NOTE**: There's another branch in this repo that was done for Mojave with Clover a few years back. 
+I've since updated this repo with my current OpenCore/Ventura config
 
 <details>
 <summary><strong>💻 My Hardware</strong></summary>
@@ -301,7 +302,7 @@ This will take a while to write to the usb. After creating the install media, mo
 
 ## 📜 License
 
-This repo is licensed under the [MIT License](https://raw.githubusercontent.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/Ventura/LICENSE).
+This repo is licensed under the [MIT License](https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/blob/Ventura/LICENSE).
 
 OpenCore is licensed under the [BSD 3-Clause License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt).
 
