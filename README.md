@@ -204,6 +204,7 @@ Now you can go through the install.
 3. Select Disk Utility, select your disk and click erase. Give a name and choose **APFS** with **GUID Partition Map**.
 4. After erasing, go back and select **Reinstall macOS** and follow the steps on your screen. The installation may take up to **2 hours**.
 >  **Note:** Wifi might not work in recovery to download the installation files. You'll need to plug in an ethernet cable.
+
 >  **Note:** Your PC will restart multiple times. Just boot from the usb drive each time and select your disk inside of OpenCore. (```named macOS Installer or the disk name```).
 5. Once you see the `Region Selection` screen, you are in the home stretch.
 6. Create your user account and set everything else up.
