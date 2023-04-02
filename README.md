@@ -7,17 +7,15 @@
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
 <p align="center">
-   <strong>Status: Maintained</strong>
+   <strong>Status: </strong>Maintained
+   <br />
+   <strong>Repo Version: </strong>v1.0
    <br />
    <strong>MacOS Version: </strong>Ventura 13.3
    <br />
-   <a href="https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/releases"><strong>Download now »</strong></a>
-   <br />
-   <a href="https://github.com/valnoxy/t480-oc/issues">Report Bug</a>
+   <a href="https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/releases"><strong>Download</strong></a>
    ·
-   <a href="https://github.com/valnoxy/t480-oc/blob/main/CHANGELOG.md">View Changelog</a>
-   ·
-   <a href="https://www.youtube.com/watch?v=thYDWyJuUq4">YouTube Video</a>
+   <a href="https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/blob/ventura/CHANGELOG.md">Changelog</a>
   </p>
 </p>
 </br>
@@ -54,6 +52,8 @@ These are the hardware components I use. This OpenCore configuration  <strong> s
 
 ## ⚠️ Disclaimer
 This guide is only for the Asus Z390M-Pro Gaming/Wifi motherboard. I am NOT responsible for any harm you cause to your device. This guide is provided "as-is" and all steps taken are done at your own risk.
+
+&nbsp;
 
 ## Installation
 
@@ -209,17 +209,6 @@ Now you can go through the install.
 
 </details>
 
-<details>  
-<summary><strong>♻️ Upgrade macOS</strong></summary>
-</br>
-
-If you plan to upgrade your macOS, follow these steps:
-
-1. Download the desired macOS version or security updates from inside the Settings app.
-2. Perform the upgrade as normal like a real mac.
-
-</details>
-
 &nbsp;
 
 ## Post-Install
@@ -253,6 +242,16 @@ Ventura:
 
 This will take a while to write to the usb. After creating the install media, mount the EFI partitions from your main disk and this new usb install media with [MountEFI](https://github.com/corpnewt/MountEFI). Copy your working EFI folder to the EFI partition of this install media.
 
+</details>
+
+<details>  
+<summary><strong>♻️ Upgrade macOS</strong></summary>
+</br>
+
+If you plan to upgrade your macOS, follow these steps:
+
+1. Download the desired macOS version or security updates from inside the Settings app.
+2. Perform the upgrade as normal like a real mac.
 
 </details>
 
