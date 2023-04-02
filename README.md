@@ -15,7 +15,7 @@
    <br />
    <a href="https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/releases"><strong>Download</strong></a>
    ·
-   <a href="https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/blob/ventura/CHANGELOG.md">Changelog</a>
+   <a href="https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh/blob/Ventura/CHANGELOG.md">Changelog</a>
   </p>
 </p>
 </br>
