@@ -260,16 +260,16 @@ This will take a while to write to the usb. After creating the install media, mo
 ## Status
 
 <details>  
-<summary><strong>✅ What's working</strong></summary>
+<summary><strong>✅ What's Working</strong></summary>
 </br>
  
-- [X] Intel WiFi (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
+- [X] Intel WiFi (thanks to [airportitlwn](https://github.com/OpenIntelWireless/itlwm))
 - [X] Audio (Audio Jack & Speaker)
 - [X] USB Ports
 - [X] AMD Radeon RX 590
 - [X] Power management / Sleep
 - [X] FaceTime / iMessage (iServices)
-- [X] DisplayPort/HDMI
+- [X] DisplayPort / HDMI
 - [X] Automatic OS updates
 - [X] SIP / FireVault 2
 - [X] USB-C
@@ -280,7 +280,7 @@ This will take a while to write to the usb. After creating the install media, mo
 <summary><strong>⚠️ What's Not Working</strong></summary>
 </br>
 
-- [ ] Intel Bluetooth (Causes a few of the items in the Not Tested section to probably not work)
+- [ ] Intel Bluetooth (Causes a few of the items in the Not Tested section to most likely not work also)
 - [ ] Safari DRM ```Use Chromium powered Browser or Firefox to watch Amazon Prime Video, Netflix, Disney+ and others```
 
 
